@@ -6,7 +6,7 @@ def countdown(number)
   end
   "happy new year!".upcase
 end
-sleep = 5
+sleep(5)
 def countdown_with_sleep
   sleep(5)
 end
